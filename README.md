@@ -37,5 +37,5 @@ This repository contains the code and analysis for  building a linear regression
 
 This project provides a comprehensive overview of second-hand car price trends and insights, useful for further studies or market analysis. The linear regression model developed can serve as a baseline for more complex predictive models in the future.
 
-For more details, visit the project repository: [Second-Hand Car Price Prediction](https://github.com/Sundar9787/SecondHandCarPricePrediction/blob/main/SecondHandCarPricePrediction.ipynb).
+For more details, visit the project repository: [CODTECH-Task2](https://github.com/Sundar9787/CODTECH-Task2/blob/main/CODTech_Task2.ipynb).
 
